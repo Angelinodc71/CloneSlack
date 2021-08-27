@@ -1,0 +1,17 @@
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Application\bin\Debug\net5.0\Application.deps.json
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Application\bin\Debug\net5.0\Application.dll
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Application\bin\Debug\net5.0\ref\Application.dll
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Application\bin\Debug\net5.0\Application.pdb
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Application\bin\Debug\net5.0\Domain.dll
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Application\bin\Debug\net5.0\Persistence.dll
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Application\bin\Debug\net5.0\Domain.pdb
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Application\bin\Debug\net5.0\Persistence.pdb
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Application\obj\Debug\net5.0\Application.dll
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Application\obj\Debug\net5.0\ref\Application.dll
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Application\obj\Debug\net5.0\Application.pdb

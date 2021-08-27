@@ -1,0 +1,12 @@
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Domain\obj\Debug\net5.0\Domain.pdb
