@@ -1172,11 +1172,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\AngeldeCaldas\\Documents\\Demos\\CloneSlack\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\AngeldeCaldas\\Documents\\Demos\\CloneSlack\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "c:\\Users\\AngeldeCaldas\\Documents\\Demos\\CloneSlack\\Persistence\\Persistence.csproj",
+      "projectPath": "C:\\Users\\AngeldeCaldas\\Documents\\Demos\\CloneSlack\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\AngeldeCaldas\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\AngeldeCaldas\\Documents\\Demos\\CloneSlack\\Persistence\\obj\\",
+      "outputPath": "C:\\Users\\AngeldeCaldas\\Documents\\Demos\\CloneSlack\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AngeldeCaldas\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1191,8 +1191,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "c:\\Users\\AngeldeCaldas\\Documents\\Demos\\CloneSlack\\Domain\\Domain.csproj": {
-              "projectPath": "c:\\Users\\AngeldeCaldas\\Documents\\Demos\\CloneSlack\\Domain\\Domain.csproj"
+            "C:\\Users\\AngeldeCaldas\\Documents\\Demos\\CloneSlack\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\AngeldeCaldas\\Documents\\Demos\\CloneSlack\\Domain\\Domain.csproj"
             }
           }
         }

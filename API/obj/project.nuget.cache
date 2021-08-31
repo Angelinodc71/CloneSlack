@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v+7LevWCryUAFFUf7MxmnBBuWLhL9yCOfgm58X4QFZ2+8Woee9944as9kwH1M0kmx0hDpkTv5aTfK8Jn3NSWfQ==",
+  "dgSpecHash": "tYInJzIHaOz+t6dIFXsGFZb1MP4SHZt9Z2E4Wrlc4EeHK3/C4Y7laQLkDNMTEGai2c+oSI8lQQ8LBmuDLcJnGQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\AngeldeCaldas\\Documents\\Demos\\CloneSlack\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\AngeldeCaldas\\Documents\\Demos\\CloneSlack\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AngeldeCaldas\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\AngeldeCaldas\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

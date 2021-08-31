@@ -1391,11 +1391,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\AngeldeCaldas\\Documents\\Demos\\CloneSlack\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\AngeldeCaldas\\Documents\\Demos\\CloneSlack\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "c:\\Users\\AngeldeCaldas\\Documents\\Demos\\CloneSlack\\API\\API.csproj",
+      "projectPath": "C:\\Users\\AngeldeCaldas\\Documents\\Demos\\CloneSlack\\API\\API.csproj",
       "packagesPath": "C:\\Users\\AngeldeCaldas\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\AngeldeCaldas\\Documents\\Demos\\CloneSlack\\API\\obj\\",
+      "outputPath": "C:\\Users\\AngeldeCaldas\\Documents\\Demos\\CloneSlack\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AngeldeCaldas\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1410,8 +1410,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "c:\\Users\\AngeldeCaldas\\Documents\\Demos\\CloneSlack\\Application\\Application.csproj": {
-              "projectPath": "c:\\Users\\AngeldeCaldas\\Documents\\Demos\\CloneSlack\\Application\\Application.csproj"
+            "C:\\Users\\AngeldeCaldas\\Documents\\Demos\\CloneSlack\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\AngeldeCaldas\\Documents\\Demos\\CloneSlack\\Application\\Application.csproj"
             }
           }
         }

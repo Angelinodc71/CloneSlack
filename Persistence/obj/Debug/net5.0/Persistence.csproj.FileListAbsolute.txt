@@ -13,3 +13,6 @@ C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Persistence\obj\Debug\net5.0\P
 C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Persistence\obj\Debug\net5.0\Persistence.dll
 C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Persistence\obj\Debug\net5.0\ref\Persistence.dll
 C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Persistence\obj\Debug\net5.0\Persistence.pdb
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.json
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.dev.json
+C:\Users\AngeldeCaldas\Documents\Demos\CloneSlack\Persistence\obj\Debug\net5.0\Persistence.genruntimeconfig.cache

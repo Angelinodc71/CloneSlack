@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rlpvgRUl1QY5Xh5XMhDzqeKWBZSc1bFlVjUn238d2CwwSAzqaMWYzTrLsyu2cXs52WgVSxiRE1pq5eLxUhB7/Q==",
+  "dgSpecHash": "bkH0V/rg/hvmeiS7ZbV/n7IWmnTeqLBy4yGPtbclWoDaNWQPXpqsaYLZ8TG7GZCQfo52+oI6jyj54WZV22xXSg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\AngeldeCaldas\\Documents\\Demos\\CloneSlack\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\AngeldeCaldas\\Documents\\Demos\\CloneSlack\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
