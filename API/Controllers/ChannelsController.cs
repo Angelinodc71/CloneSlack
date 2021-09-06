@@ -39,8 +39,6 @@ namespace API.Controllers
         {
             var channels = await _context.Channels.ToListAsync();
 
-            await Task.Delay(20000);
-
             return channels;
         }
         
