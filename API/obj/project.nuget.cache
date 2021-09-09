@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "mjMhQpPGpTMB/CQRxRIgjMJkgWO8ZpT6+utpGW7COUwaAc165aH9WP4GRok8TkvlnRu3ULVACsN+ItJO7EcD0Q==",
+  "dgSpecHash": "MM9RbGmz9iGlJxMj6PrmA8/jqxWzk5nO5EULViXsqZdz1b/XyCSxsxzAX4+W3aAx5tKoA8Yy6oWKEY7vMiXlFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AngeldeCaldas\\Documents\\Demos\\CloneSlack\\api\\API.csproj",
+  "projectFilePath": "C:\\Users\\AngeldeCaldas\\Documents\\Demos\\CloneSlack\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\AngeldeCaldas\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\AngeldeCaldas\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\AngeldeCaldas\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\AngeldeCaldas\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\AngeldeCaldas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

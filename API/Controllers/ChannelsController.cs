@@ -1,7 +1,11 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading;
 using System.Threading.Tasks;
+using Application.Channels;
+using Domain;
+using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
@@ -13,41 +17,29 @@ namespace API.Controllers
     [Route("api/[controller]")]
     public class ChannelsController : ControllerBase
     {
-        private DataContext _context;
-        private ILogger<ChannelsController> _logger;
+        private IMediator _mediator;
 
-        public ChannelsController (DataContext context, ILogger<ChannelsController> logger)
+        public ChannelsController(IMediator mediator) 
         {
-            _context = context ?? throw new ArgumentNullException(nameof(context));
-            _logger = logger ?? throw new ArgumentNullException(nameof(context));
+           _mediator = mediator ?? throw new ArgumentNullException(nameof(mediator));
         }
 
-        public async Task<IActionResult> Get()
+        [HttpGet]
+        public async Task<ActionResult<List<Channel>>> List(CancellationToken cancellationToken) 
         {
-            Task<IEnumerable<Domain.Channel>> channelTask =  GetChannels();
-            
-            _logger.LogInformation("Task 1 finished");
-
-            var channels = await channelTask;
-
-            _logger.LogInformation("Task 2 finished");
-
-            return Ok(channels);
+            return await _mediator.Send(new List.Query(), cancellationToken);
         }
 
-        private async Task<IEnumerable<Domain.Channel>> GetChannels()
-        {
-            var channels = await _context.Channels.ToListAsync();
-
-            return channels;
-        }
-        
         [HttpGet("{id}")]
-        public IActionResult Get(Guid id)
+        public async Task<ActionResult<Channel>> Details(Guid id)
         {
-            var channel = _context.Channels.FirstOrDefault(x => x.Id == id);
-            
-            return Ok(channel);
+            return await _mediator.Send(new Details.Query { Id = id }); 
+        }
+
+        [HttpPost]
+        public async Task<Unit> Create([FromBody] Create.Command command)
+        {
+            return await _mediator.Send(command);
         }
     }
 }
