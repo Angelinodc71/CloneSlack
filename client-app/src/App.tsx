@@ -2,38 +2,27 @@ import React, { Component } from 'react';
 import axios from 'axios';
 import './App.css';
 import 'semantic-ui-css/semantic.min.css';
-import { Header, Icon, List } from 'semantic-ui-react';
+import { Grid, GridColumn, Header, Icon, List } from 'semantic-ui-react';
+import SidePanel from './components/SidePanel/SidePanel'
+import ColorPanel from './components/ColorPanel/ColorPanel';
+import MetaPanel from './components/MetaPanel/MetaPanel';
+import Messages from './components/Messages/Messages';
 
 class App extends Component {
-  
-  state = {
-    channels: []
-  }
-
-  componentDidMount() {
-    axios.get('http://localhost:5000/api/channels').then((response) => {
-      this.setState({
-        channels: response.data
-      })
-    })
-  }
-
   render(){
     return (
-      <div>
-        <Header as="h2" icon>
-        <Icon name="users"></Icon>
-          Clone Slack
-          <Header.Subheader>
-             Programmation languages
-          </Header.Subheader>
-        </Header>
-        <List>
-          {this.state.channels.map((value: any) => (
-            <List.Item key={value.id}>{value.name}</List.Item>
-          ))}
-        </List>
-      </div>
+      <Grid columns="equal" className="app">
+        <ColorPanel/>
+        <SidePanel/>
+
+        <GridColumn style={{ marginLeft:320 }}>
+          <Messages/>
+        </GridColumn>
+        
+        <GridColumn width={4}>
+          <MetaPanel/>
+        </GridColumn>
+      </Grid>
     );
   }
 }

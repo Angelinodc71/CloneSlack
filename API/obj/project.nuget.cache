@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MM9RbGmz9iGlJxMj6PrmA8/jqxWzk5nO5EULViXsqZdz1b/XyCSxsxzAX4+W3aAx5tKoA8Yy6oWKEY7vMiXlFw==",
+  "dgSpecHash": "UOmcMfmBn/NaRdOP7iMWvLmlOkJg9N8YjwEVfXnDYFdWQug/CCRN/65gZTEqSy+B1pDhp2M7EDP1LvTv9B4KSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AngeldeCaldas\\Documents\\Demos\\CloneSlack\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\AngeldeCaldas\\Documents\\Demos\\CloneSlack\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AngeldeCaldas\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\AngeldeCaldas\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
